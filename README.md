@@ -1,6 +1,10 @@
 <h1 align="center">Hey folk! I'm Keshav Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<h3 align="center">Learning Chrome extension development</h3>
+<h3 align="center">A passionate frontend developer & chrome extension developer from India</h3>
+<h1 align="center"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h2 align="center">Inventing Wonders to Foster the Future!</h2>
+
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshav-fixed-404" alt="keshav-fixed-404" /></a> </p>
 
